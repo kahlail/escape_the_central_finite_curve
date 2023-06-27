@@ -1,4 +1,5 @@
 # Escape the Central Finite Curve!
+![IMG_7583](https://github.com/kahlail/escape_the_central_finite_curve/assets/109074529/8bfae00e-2174-4f7a-b446-7a486b4b1ce8)
 
 <p>A live dashboard for Eyepatch Morty, displaying all the data he needs to leave the Central Finite Curve! </p>
 
@@ -28,6 +29,8 @@
 
 
 <p>Not only will this assist Eyepatch Morty in locating the <em>"Rickest"</em> Rick by using data from beyond the fourth-wall, it will also give Eyepatch Morty the start he needs in his campaign for Presidency of the Citadel.</p>
+
+![image](https://github.com/kahlail/escape_the_central_finite_curve/assets/109074529/59376be5-2fbc-4533-aec2-3683a4c8c67c)
 
 
 ## Project Goal
