@@ -50,7 +50,7 @@ The ultimate goal of the project is to create a dashboard that;
 After graduating from a Data Engineering programme, I wanted to continue to reinforce and develop my skills (whilst still having some fun 🥳). With that, my aims are the following:
 
 <ol>
-<li>Develop an ETL pipeline
+<li>Develop an ETL pipeline independently
     <ul>
         <li>Write a python script that makes an API call to retrieve data,</li>
         <li>Removes un-wanted information, and </li>
