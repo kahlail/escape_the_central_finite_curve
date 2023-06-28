@@ -40,20 +40,20 @@ The ultimate goal of the project is to create a dashboard that;
 >
 >• Display their curent locations,<br/>
 >
->• Display thier location of origin<br/>
+>• Display their location of origin,<br/>
 >
->• Highlight Rick's of interest based on number of episode appearances<br/>
+>• Highlight Rick's of interest based on number of episode appearances.<br/>
 
 
 ## Personal Learning Objectives
 
-After graduating from a Data Engineering programme, I wanted to continue to reinforce and develop my skills (whilst still having some fun 🥳). With that, my aims are the following:
+After my graduation from a Data Engineering programme, I wanted to continue to reinforce and develop my skills (whilst still having some fun 🥳). With that, my aims are the following:
 
 <ol>
 <li>Develop an ETL pipeline independently
     <ul>
         <li>Write a python script that makes an API call to retrieve data,</li>
-        <li>Removes un-wanted information, and </li>
+        <li>Removes un-wanted information using the Pandas library, and </li>
         <li>Persists the useful information to a relational database in normalised form.</li>
     </ul>
 </li>
