@@ -3,7 +3,7 @@ from src.make_api_request import api_get_request
 
 def test_api_request_good_response():
     mock_url = 'https://www.mock-url.com/get'
-    mock_parameters = ['value 1', 'value 2']
+    mock_payload = {'value 1': 'a', 'value 2': 'b'}
     mock_request_lib = Mock()
     
     mock_response = Mock()
@@ -33,7 +33,7 @@ def test_api_request_good_response():
     }
 ]
 
-    actual_response, actual_stat_code = api_get_request(mock_request_lib, mock_url, mock_parameters)
+    actual_response, actual_stat_code = api_get_request(mock_request_lib, mock_url, mock_payload)
 
     assert expected_response == actual_response
     assert expected_status_code == actual_stat_code

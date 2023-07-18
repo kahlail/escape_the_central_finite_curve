@@ -25,7 +25,7 @@
 
 ## The Solution
 
-<p><strong>Unlike Eyepatch Morty's method</strong> of finding valuable Rick's by catlouging how evil they are, I'm offerering a back-end system that will enable Eyepatch Morty to spot exploitable trends in every Rick's (and therefore Mortys') behaviour.</p>
+<p><strong>Unlike Eyepatch Morty's method</strong> of finding valuable Rick's by cataloging how evil they are, I'm offerering a back-end system that will enable Eyepatch Morty to spot exploitable trends in every Rick's (and therefore Mortys') behaviour.</p>
 
 
 <p>Not only will this assist Eyepatch Morty in locating the <em>"Rickest"</em> Rick by using data from beyond the fourth-wall, it will also give Eyepatch Morty the start he needs in his campaign for Presidency of the Citadel.</p>
@@ -52,7 +52,7 @@ After my graduation from a Data Engineering programme, I wanted to continue to r
 <ol>
 <li>Develop an ETL pipeline independently
     <ul>
-        <li>Write a python script that makes an API call to retrieve data,</li>
+        <li>Write a python script that makes an API GET request to retrieve data,</li>
         <li>Removes un-wanted information using the Pandas library, and </li>
         <li>Persists the useful information to a relational database in normalised form.</li>
     </ul>
@@ -61,7 +61,7 @@ After my graduation from a Data Engineering programme, I wanted to continue to r
 
 <li>Build an app that does not store sensitive information (such as passowrds) directly in an .env file.</li>
 
-<li>Deepen my practical understanding of the role of APIs in production and micro-services so I can build one in my next mini-project.</li>
+<li>Deepen my practical understanding of the role of APIs in production and micro-services.</li>
 </ol>
 
 ## Tech Stack

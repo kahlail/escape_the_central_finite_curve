@@ -1,5 +1,10 @@
+import requests
+from make_api_request import api_get_request, payload, target_url
+
 if __name__ == '__main__':
-    pass    
+    results = api_get_request(requests, target_url, payload)
+    print(results)
+    # pass    
     # import modules
 
     # make api request
