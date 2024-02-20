@@ -1,5 +1,5 @@
 from unittest.mock import Mock
-from src.make_api_request import api_get_request
+from ..src.make_api_request import api_get_request
 
 def test_api_request_good_response():
     mock_url = 'https://www.mock-url.com/get'
